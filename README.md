@@ -1,4 +1,4 @@
-
+![Header](./img4.jpg)
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center"> MERN Developer, Open source Enthusiast ,Competitive Programmer with a Passion for Problem Solving, Curious CS Undergrad 2024 from India</h3>
 
