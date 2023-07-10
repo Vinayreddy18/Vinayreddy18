@@ -1,4 +1,4 @@
-<img src="./mylogo.png" alt="vinaylogo" width="1500" height="420"/> </a>
+<img src="./vinaylogo.png" alt="vinaylogo" width="1500" height="420"/> </a>
 <h1 align="center">Hi 👋, I'm Vinay Reddy</h1>
 
 <h3 align="center"> MERN Developer, Open source Enthusiast ,Competitive Programmer with a Passion for Problem Solving, Curious CS Undergrad 2024 from India</h3>
