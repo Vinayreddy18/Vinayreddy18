@@ -5,7 +5,7 @@
 
 - 🌱 I’m Proficient developer in **MERN STACK**
 
-- 💬 Ask me about **MongoDB,ExpressJS,ReactJS,NodeJS,JavaScript,Blockchain,CPP**
+- 💬 Ask me about  **MongoDB,ExpressJS,ReactJS,NodeJS,JavaScript,Blockchain,CPP**
 
 - 📫 How to reach me **guradivinay33@gmail.com**
 
